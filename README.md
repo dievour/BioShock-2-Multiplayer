@@ -1,3 +1,4 @@
+![BioShock 2 Multiplayer](Images/BioShockStartupBigSisterDuo.png)
 # BioShock 2 Multiplayer — UserFixes
 
 A plugin for *BioShock 2 Multiplayer* that applies persistent user preferences on launch via a simple INI configuration file.
