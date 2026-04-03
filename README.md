@@ -14,9 +14,9 @@ No overlays, no menus — configure your preferences once, and they apply automa
 
 ## 🌊 Features
 
-- **FOV Configuration** — Set your desired field of view for gameplay and weapons
-- **Mouse Settings** — Disable mouse smoothing and acceleration for raw input
-- **Crouch Height Fix** — Allows players to enter smaller spaces, such as vents on certain maps that were previously inaccessible due to an incorrect default crouch height value
+- **FOV Configuration** — Set your desired field of view for gameplay and weapons.
+- **Mouse Settings** — Disable mouse smoothing and acceleration for raw input.
+- **Crouch Height Fix** — Allows players to enter smaller spaces, such as vents on certain maps that were previously inaccessible due to an incorrect default crouch height value. (May only work if lobby host has `UserFixes.dll` and has enabled `CrouchHeightFix`.)
 
 ---
 
